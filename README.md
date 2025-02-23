@@ -35,12 +35,15 @@ Our approach demonstrates efficient **transfer learning** for EEG-based text pro
 ## **Citation**  
 If you find this work useful, please consider citing:  
 ```
-@article{khushiyant2024neurocognitive,
-  title={Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data},
-  author={Khushiyant},
-  year={2024},
-  journal={Unpublished Manuscript}
+‌@article{khushiyant2024neurocognitive,
+  author = {Khushiyant},
+  title = {Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data},
+  year = {2024},
+  url = {\url{https://khushiyant.github.io/neurocognitive-modeling/}},
+  publisher={Unpublished}, 
+  pages={1–15}
 }
+
 ```
 
 ---
